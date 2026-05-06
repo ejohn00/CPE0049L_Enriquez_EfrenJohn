@@ -1,0 +1,6 @@
+*   dcbf3bb Merge pull request #1 from ejohn00/feature-bio
+|\  
+| * 57a6fb6 feat: added developer biography to readme
+|/  
+* 80511c6 chore: initial project scaffolding and gitignore
+* 4bd8834 Initial commit
